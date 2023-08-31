@@ -1,6 +1,6 @@
 # Hi 👋, I'm Uchaiaye marma
 ### A passionate learner and love to learn new technologies.
-I have recently finished my graduation in Bsc. Software Engineering and interest in Web Development.
+I am eagerly interested to learn about Web Development and all its new technologies.
 
 Skills: C / C++/ JAVA  / HTML / CSS/ JS / REACTJS 
 
