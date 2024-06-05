@@ -4,7 +4,7 @@ I am eagerly interested to learn about Web Development and all its new technolog
 
 Skills: C / C++/ JAVA  / HTML / CSS/ JS / REACTJS 
 
-- 🌱 I’m currently learning  Javacript and Reactjs 
+- 🌱 I’m currently learning  Javacript, Reactjs and Next.js 
 - 💬 Ask me about web development and photography 
 - 📫 How to reach me: uchhai53@gmail.com 
 
